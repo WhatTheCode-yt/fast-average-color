@@ -54,7 +54,7 @@ Replace the contents of `src/App.jsx` with the following:
 [PASTE FULL App.jsx CODE HERE – omitted for brevity in this preview]
 ```
 
-
+```bash
 import React, { useState, useRef, useEffect } from "react";
 import { FastAverageColor } from "fast-average-color";
 
@@ -221,7 +221,7 @@ export default function App() {
     </div>
   );
 }
-
+```
 
 ### 6. Run the App
 
