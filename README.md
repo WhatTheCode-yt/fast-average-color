@@ -1,8 +1,6 @@
 Got it — you want a **clean, professional `README.md`** without emojis, decorations, or unnecessary flair. Here's the plain, markdown-formatted content:
 
----
 
-````markdown
 # Getting Started with React Vite + Tailwind CSS + Fast Average Color
 
 This guide helps you set up a React application using Vite, Tailwind CSS, and the Fast Average Color library to dynamically extract and display the average color from uploaded images and videos.
