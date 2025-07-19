@@ -1,5 +1,3 @@
-Got it — you want a **clean, professional `README.md`** without emojis, decorations, or unnecessary flair. Here's the plain, markdown-formatted content:
-
 
 # Getting Started with React Vite + Tailwind CSS + Fast Average Color
 
@@ -99,22 +97,5 @@ Build the app for production:
 npm run build
 ```
 
-Deploy the contents of the `dist/` folder to any static hosting platform such as Netlify or Vercel.
 
-## Resources
 
-* [Vite Documentation](https://vitejs.dev)
-* [Tailwind CSS Documentation](https://tailwindcss.com)
-* [Fast Average Color Documentation](https://github.com/fast-average-color/fast-average-color)
-* [React Documentation](https://react.dev)
-
-## License
-
-MIT
-
-```
-
----
-
-Let me know if you'd like the full `App.jsx` included inline or saved to a file.
-```
